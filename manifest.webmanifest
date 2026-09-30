@@ -1,0 +1,19 @@
+{
+  "name": "Atom Code",
+  "short_name": "Atom Code",
+  "description": "Editor di codice in stile VS Code: temi, plugin, anteprima, terminale.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1f1f1f",
+  "theme_color": "#181818",
+  "lang": "it",
+  "categories": ["developer", "productivity", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
